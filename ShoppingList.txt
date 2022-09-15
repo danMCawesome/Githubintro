@@ -6,3 +6,5 @@ banana
 cherries
 carrots
 bread
+cucumbers
+radishes
